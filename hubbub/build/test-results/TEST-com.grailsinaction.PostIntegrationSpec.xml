@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.grailsinaction.PostIntegrationSpec" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-02-20T14:29:45" hostname="Christophers-MacBook-Air-2.local" time="7.948">
+  <properties/>
+  <testcase name="Adding posts to user links post to user" classname="com.grailsinaction.PostIntegrationSpec" time="7.899"/>
+  <testcase name="Ensure posts linked to a user can be retrieved" classname="com.grailsinaction.PostIntegrationSpec" time="0.019"/>
+  <testcase name="Exercise tagging several posts with various tags" classname="com.grailsinaction.PostIntegrationSpec" time="0.03"/>
+  <system-out><![CDATA[Grails application running at http://localhost:8080 in environment: test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
